@@ -1,0 +1,6 @@
+# LaTeX
+out/
+auxil/
+
+# IDE
+.idea/
